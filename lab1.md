@@ -3,3 +3,5 @@ After this reading this article I realized the power of big companies in influen
 Screenshot of my tree![lab1](lab1screenshot.png)
 
 Problems done for regex ![lab1](regex.png)
+
+9 regex probs done ![lab1](9probs.png)
