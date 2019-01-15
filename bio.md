@@ -1,5 +1,5 @@
-## Name: Richard Northrup - 
+## Name: Richard Northrup 
 ### email: northr2@rpi.edu 
-### github account: mskmoorthy
-### chat.rcos.io handle: 
+### github account: richardnorthrup
+### chat.rcos.io handle: richardnorthrup
 Photo of Moorthy ![Moorthy](images/msk.jpg)
