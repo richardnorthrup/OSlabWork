@@ -7,3 +7,5 @@ Problems done for regex ![lab1](regex.png)
 9 regex probs done ![lab1](9probs.png)
 
 4 regex probs ![lab1](4probs.png)
+
+scratch prob ![lab1](scratch.png)
